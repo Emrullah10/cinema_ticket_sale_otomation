@@ -19,7 +19,7 @@ namespace sinema_büfe_satis
 
         private void label7_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("asdsadasdsad");
+    
 
         }
         int kasatutar = 0;
